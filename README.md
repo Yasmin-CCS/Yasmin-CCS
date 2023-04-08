@@ -5,7 +5,7 @@
 
 
 <div style= "display: inline_block" align="right"><br>
- <img alt="astronauta" align="right" height="500" width="400"  src="https://user-images.githubusercontent.com/127205957/230701400-18cce081-0190-4305-811d-81901b16a555.png")/>
+ <img alt="astronauta" align="right" height="400" width="320"  src="https://user-images.githubusercontent.com/127205957/230701400-18cce081-0190-4305-811d-81901b16a555.png")/>
 <section align = "left">
 
 
