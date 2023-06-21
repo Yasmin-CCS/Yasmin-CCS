@@ -10,7 +10,7 @@
  Seja bem vinde 😄 !!! Atualmente sou estudante do Bootcamp da Generation Brasil, entre minhas paixões posso citar: 💻tecnologia, 🎵musica, 🎨arte, 🌵suculentas, 🍫chocolate, 📚livros, 🌞sol e 🌊mar (não necessariamente nessa ordem 😜)
  </section> <br>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yasmin-ccs&bg_color=DEG,84539b,d46752&ring_color=dbdbe8&title_color=dbdbe8&text_color=dbdbe8&hide_border=true#gh-dark-mode-only)
+
 ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-ccs&&layout=compact&bg_color=DEG,d46752,84539b&title_color=dbdbe8&text_color=dbdbe8&hide_border=true#gh-dark-mode-only)
  
 </div>
