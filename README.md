@@ -1,4 +1,4 @@
-## Olá! Eu sou a Yasmin Saparolli!
+## Hi! I'm Yasmin Saparolli!
 
 <br>
 
@@ -7,8 +7,7 @@
 <div style= "display: flex" align="right"><br>
  <img alt="astronauta" align="right" height="400" width="320"  src="https://user-images.githubusercontent.com/127205957/230701400-18cce081-0190-4305-811d-81901b16a555.png")/>
 <section align = "left">
- Seja bem vinde 😄 !!! Atualmente sou estudante do Bootcamp da Generation Brasil, entre minhas paixões posso citar: 💻tecnologia, 🎵musica, 🎨arte, 🌵suculentas, 🍫chocolate, 📚livros, 🌞sol e 🌊mar (não necessariamente nessa ordem 😜)
- </section> <br>
+ I'm currently pursuing my Master's in Business Analytics. Among my passions are: 💻 technology, 🎵 music, 🎨 art, 🍫 chocolate, 📚 books, 🌞 sunshine, and 🌊 the sea (not necessarily in that order 😜).
 
 
 ![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmin-ccs&&layout=compact&bg_color=DEG,d46752,84539b&title_color=dbdbe8&text_color=dbdbe8&hide_border=true#gh-dark-mode-only)
@@ -17,10 +16,10 @@
 <div style= "display: flex; flex-direction: row" align=right ><br>
 
  <section align = left>
-  🪁 Sou uma Dev em constante formação. <br>
-  🌱 Aqui compartilho um pouco do que venho estudando, para acompanhar meu crescimento.<br>
-  🥳 Adoro me conectar com pessoas e acredito que podemos aprender muito com as trocas!<br>
-  🌎 Falo inglês e espanhol fluentemente<br>
+🪁 I'm a professional in continuous growth.
+🌱 Here, I share a bit of what I’ve been learning as I build my journey.
+🥳 I love connecting with people and truly believe in the power of learning through exchange.
+🌎 I’m fluent in English, Spanish and Portuguese.
  </section>
  <br><br>
  <section align=center>
